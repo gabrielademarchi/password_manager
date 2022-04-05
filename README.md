@@ -13,6 +13,9 @@ Concepts used:
 <ul>
 	<li>Tkinter</li> 
 	<li>Paperclip module</li> 
+	<li>Json files</li> 
+	<li>Json module</li> 
+	<li>Erros handling (Try/Except)</li> 
 </ul>
 
 -Day 29 of the #100daysofcode challenge
